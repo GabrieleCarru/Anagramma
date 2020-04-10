@@ -13,8 +13,9 @@ public class TestRicerca {
 		List<String> ana_vac = ric.anagrammi("vacanze") ;
 		System.out.println(ana_vac) ;
 
-		List<String> ana_prg = ric.anagrammi("programmazione") ;
-		System.out.println(ana_prg) ;
+		// rischio esplosione pc...
+//		List<String> ana_prg = ric.anagrammi("programmazione") ;
+//		System.out.println(ana_prg) ;
 
 	}
 
